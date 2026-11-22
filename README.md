@@ -12,4 +12,3 @@
 ### The robot was programmed to move between predefined stations, detect object heights, and perform actions like picking, placing, and returning to a home position. The system was tuned through manual PID adjustment and tested under different operational scenarios.
 
 
-https://github.com/user-attachments/assets/7d15aa7c-a784-4c88-924c-374a5ecfee35
