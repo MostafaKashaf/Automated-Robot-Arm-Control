@@ -1,3 +1,6 @@
+
+
+
 # Automated-Robot-Arm-Control
 
 ### This project demonstrates the development of a robotic arm control system using the LEGO Mindstorms EV3 platform and MATLAB. The main objective was to implement precise pick-and-place operations using techniques from mechatronics, including:
@@ -7,3 +10,6 @@
 - Sensor integration, including touch and ultrasonic sensors, for environmental awareness and motion boundaries.
 
 ### The robot was programmed to move between predefined stations, detect object heights, and perform actions like picking, placing, and returning to a home position. The system was tuned through manual PID adjustment and tested under different operational scenarios.
+
+
+https://github.com/user-attachments/assets/7d15aa7c-a784-4c88-924c-374a5ecfee35
